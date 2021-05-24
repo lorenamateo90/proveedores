@@ -8,6 +8,5 @@ const { chromium } = require('playwright');
   await page.goto('https://web.gencat.cat/ca/inici')
   await page.fill('id=cercadorOcultGoogle', 'agenda cultural');
   await page.click('text= Cercar');
-  
   await browser.close()
 })();
