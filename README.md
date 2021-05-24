@@ -1,4 +1,4 @@
-# proveedores
+# PROVEEDORES
 ## Ejercicio técnico de la empresa proveedores
 Automatizar un proceso que realice una búsqueda en la web de la Generalitat de Catalunya
 
